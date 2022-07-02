@@ -5,7 +5,7 @@ NPM that makes it easy to get current date
 ### INSTALLATION
 
 ```
- npm i me-current
+ npm i me_current
 ```
 
 ### USAGE EXAMPLES
