@@ -1,5 +1,8 @@
 # CURRENT
 
+> CHECK OUT IN NPM:
+> [NPM_PACKAGE](https://www.npmjs.com/package/me_current)
+
 NPM that makes it easy to get current date
 
 ### INSTALLATION
