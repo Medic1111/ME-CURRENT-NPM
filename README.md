@@ -5,6 +5,8 @@
 
 NPM that makes it easy to get current date
 
+![Image of project in the npm website](npm.png)
+
 ### INSTALLATION
 
 ```
