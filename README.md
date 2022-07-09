@@ -40,4 +40,14 @@ console.log(current.year()); //output: 2022
 8. current.day:
    - Outputs the current day in dd format
 
+# THE PROJECT
+
+Tired of creating nothing but web app, I decided to start navigating new waters
+
+As an user of NPM packages, I decided to create my own, whereas although simple enough for a first project, would still be useful
+
+Along came my very humble NPM package =)
+
+Enjoy
+
 > Any questions, concerns, or issues, please contact: medictansy@gmail.com
